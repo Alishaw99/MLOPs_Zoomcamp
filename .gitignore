@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+green_tripdata_2021-01.parquet
+green_tripdata_2021-02.parquet
 
 # Spyder project settings
 .spyderproject
